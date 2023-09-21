@@ -2,7 +2,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I'm a software developer.\
-🎓 &nbsp;I'm currently studying Computer Engineering at CEFET-MG (2018-2021).\
+🎓 &nbsp;I'm currently studying Computer Engineering at CEFET-MG (2018-2023).\
 🌱 &nbsp;I'm learning about Node.js, Angular e GraphQL.\
 ✍️ &nbsp;In my free time, I play guitar, football and play games.\
 ✉️ &nbsp;You can email me at rafacampz00@gmail.com. I'll try to respond as soon as possible!\
