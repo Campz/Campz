@@ -2,9 +2,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I'm a software developer.\
-🎓 &nbsp;I'm currently studying Computer Engineering at CEFET-MG (2018-2023).\
+🎓 &nbsp;I'm currently studying Computer Engineering at CEFET-MG (2018-Present).\
 🌱 &nbsp;I'm learning about Node.js, Angular e GraphQL.\
-✍️ &nbsp;In my free time, I play guitar, football and play games.\
+✍️ &nbsp;In my free time, I play guitar, games and volleyball.\
 ✉️ &nbsp;You can email me at rafacampz00@gmail.com. I'll try to respond as soon as possible!\
 
 ### 🛠 &nbsp;Tech Stack
@@ -12,7 +12,6 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;
 ![Graphql](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
